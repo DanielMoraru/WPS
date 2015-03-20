@@ -71,13 +71,13 @@
 				active="true">
 				<Format mimetype="application/wkt"/>
 			</Generator>
-			<!--<Generator name="GenericXMLDataGenerator"
+			<Generator name="GenericXMLDataGenerator"
 				className="org.n52.wps.io.datahandler.generator.GenericXMLDataGenerator"
 				active="true">
 				<Format mimetype="text/xml" />
 				<Format mimetype="text/xml; subtype=gml/2.1.2"
 					schema="http://schemas.opengis.net/gml/2.1.2/feature.xsd" />
-			</Generator>-->
+			</Generator>
 			<Generator name="GenericFileGenerator"
 				className="org.n52.wps.io.datahandler.generator.GenericFileGenerator"
 				active="true">
